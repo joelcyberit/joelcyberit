@@ -1,4 +1,4 @@
-<h1>Hi, I'm Joel! <br/><a href="https://github.com/joecyberit">Programmer</a>, <a href="https://www.linkedin.com/in/joelfonanih/">Cybersecurity Professional</a>, </a></h1>
+<h1>Hi, I'm Joel! <br/><a href="https://github.com/joecyberit">Cybersecurity Analyst / Professional</a>, <a href="https://www.linkedin.com/in/joelfonanih/">IT Professional</a>, </a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
